@@ -1,9 +1,9 @@
 # taskTracker-CLI
-Here’s a clean, complete **README.md** you can directly paste into your project 👇
+Here’s a clean, complete **README.md** you can directly paste into your project
 
 ---
 
-# 📝 Task Tracker (CLI To-Do Manager)
+# Task Tracker (CLI To-Do Manager)
 
 A simple command-line Task Tracker built with Python that lets you add, view, update, and delete tasks.
 Tasks are stored in a JSON file so your data persists between runs.
@@ -12,7 +12,7 @@ This project is designed as a beginner-friendly utility while demonstrating prac
 
 ---
 
-# 🚀 Features
+# Features
 
 * Add new tasks with descriptions
 * View all saved tasks
@@ -23,7 +23,7 @@ This project is designed as a beginner-friendly utility while demonstrating prac
 
 ---
 
-# 🛠️ Tech Stack
+# Tech Stack
 
 * Python 3
 * JSON (for storage)
@@ -31,7 +31,7 @@ This project is designed as a beginner-friendly utility while demonstrating prac
 
 ---
 
-# 📂 Project Structure
+# Project Structure
 
 ```
 taskTracker/
@@ -42,7 +42,7 @@ taskTracker/
 
 ---
 
-# ▶️ How to Run
+# How to Run
 
 1. Install Python (3.x)
 2. Download or clone this project
@@ -55,7 +55,7 @@ python taskTracker.py
 
 ---
 
-# 💻 Commands
+# Commands
 
 Type commands in the terminal after running the program:
 
@@ -93,7 +93,7 @@ exit
 
 ---
 
-# 📁 Data Storage
+# Data Storage
 
 Tasks are stored in `tasks.json`.
 
@@ -110,7 +110,7 @@ The file is automatically created when you first add a task — no manual setup 
 
 ---
 
-# 🎯 Learning Objectives
+# Learning Objectives
 
 This project demonstrates:
 
@@ -122,7 +122,7 @@ This project demonstrates:
 
 ---
 
-# 📌 Future Improvements
+# Future Improvements
 
 * Mark tasks as completed
 * Due dates & priorities
@@ -131,7 +131,7 @@ This project demonstrates:
 
 ---
 
-# 👨‍💻 Author
+# Author
 
 Ryan Cherian
 
