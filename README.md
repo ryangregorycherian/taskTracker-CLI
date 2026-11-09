@@ -134,6 +134,3 @@ This project demonstrates:
 Ryan Cherian
 
 ---
-
-If you'd like, I can also help you push this to GitHub or add screenshots 👍
-
