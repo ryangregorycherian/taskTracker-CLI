@@ -1,6 +1,4 @@
 # taskTracker-CLI
-Here’s a clean, complete **README.md** you can directly paste into your project
-
 ---
 
 # Task Tracker (CLI To-Do Manager)
